@@ -1,4 +1,4 @@
-## TIL Calendar 🐱‍🏍🐾🐣
+## TIL Calendar 🐣
 
 ### 2024.02
 
