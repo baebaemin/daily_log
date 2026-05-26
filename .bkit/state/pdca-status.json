@@ -1,0 +1,63 @@
+{
+  "version": "3.0",
+  "lastUpdated": "2026-04-28T07:26:01.205Z",
+  "activeFeatures": [
+    "scripts"
+  ],
+  "primaryFeature": "scripts",
+  "features": {
+    "scripts": {
+      "phase": "do",
+      "phaseNumber": 3,
+      "matchRate": null,
+      "iterationCount": 0,
+      "requirements": [],
+      "documents": {},
+      "timestamps": {
+        "started": "2026-04-28T07:23:22.561Z",
+        "lastUpdated": "2026-04-28T07:26:01.203Z"
+      },
+      "lastFile": "/Users/user/.claude/scripts/daily-til-backfill-examples.sh"
+    }
+  },
+  "pipeline": {
+    "currentPhase": 1,
+    "level": "Dynamic",
+    "phaseHistory": []
+  },
+  "session": {
+    "startedAt": "2026-04-17T06:20:33.707Z",
+    "onboardingCompleted": false,
+    "lastActivity": "2026-04-28T07:26:01.205Z"
+  },
+  "history": [
+    {
+      "timestamp": "2026-04-28T07:23:22.566Z",
+      "feature": "scripts",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-04-28T07:26:01.205Z",
+      "feature": "scripts",
+      "phase": "do",
+      "action": "updated"
+    }
+  ],
+  "stateMachine": {
+    "defaultWorkflow": "default",
+    "activeWorkflows": {},
+    "totalTransitions": 0
+  },
+  "automation": {
+    "globalLevel": 2,
+    "trustScore": 40,
+    "pendingApprovals": 0,
+    "lastGateResult": null
+  },
+  "team": {
+    "enabled": true,
+    "stateFile": ".bkit/runtime/agent-state.json",
+    "eventsFile": ".bkit/runtime/agent-events.jsonl"
+  }
+}
